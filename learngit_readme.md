@@ -22,6 +22,10 @@ Day01
     git commit -m "description"
     ```
     
+    ```
+    git reset --hard 1094a
+    ```
+    
     
 
 ## 暂存区的操作说明
