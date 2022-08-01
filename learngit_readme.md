@@ -63,3 +63,33 @@ $ git checkout -b dev
 ```
 $ git branch
 ```
+
+现在，把`dev`分支的工作成果合并到`master`分支上：
+
+```
+$ git merge dev
+```
+
+合并完成后，就可以放心地删除`dev`分支了：
+
+```
+$ git branch -d dev
+```
+
+删除后，查看`branch`，就只剩下`master`分支了：
+
+```
+$ git branch
+```
+
+Switch 创建并切换到新的`dev`分支，可以使用：
+
+```
+$ git switch -c dev
+```
+
+直接切换到已有的`master`分支，可以使用：
+
+```
+$ git switch master
+```
