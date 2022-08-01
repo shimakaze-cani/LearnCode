@@ -40,3 +40,10 @@ Day01
 
 ## 删除文件
 
+
+
+## 远程仓库
+
+```
+ git push origin master
+```
