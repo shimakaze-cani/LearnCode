@@ -26,7 +26,17 @@
     git reset --hard 1094a
     ```
     
+    ```
+    git push origin master
+    ```
     
+    ```
+    git pull                                  将远程仓库拉取至本地
+    ```
+    
+    ```
+    git clone git@github.com:shimakaze-cani/xxx.git
+    ```
 
 ### 暂存区的操作说明
 
