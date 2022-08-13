@@ -1,2 +1,0 @@
-﻿  HelloWorld.c
-x64\Debug\HelloWorld.obj : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突
