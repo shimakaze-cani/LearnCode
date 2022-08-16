@@ -12,29 +12,27 @@
     
     
     
-    
-    
-    ```
+    ```bash
     git add <file>
     ```
     
-    ```
+    ```bash
     git commit -m "description"
     ```
     
-    ```
+    ```bash
     git reset --hard 1094a
     ```
     
-    ```
+    ```bash
     git push origin master
     ```
     
-    ```
+    ```bash
     git pull                                  将远程仓库拉取至本地
     ```
     
-    ```
+    ```shell
     git clone git@github.com:shimakaze-cani/xxx.git
     ```
 
@@ -54,7 +52,7 @@
 
 ### 远程仓库
 
-```
+```bash
  git push origin master
 ```
 
