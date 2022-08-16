@@ -24,6 +24,8 @@ int  data_copy_asm(void) {
 		BNE LOOP
 	}
 }
+
+
 void main() {
 	
 	
