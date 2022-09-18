@@ -1,4 +1,4 @@
-#include<stdio.h>
+/**#include<stdio.h>
 
 int src[10] = { 1,2,3,4,5,6,7,8,9 };
 int dst[10] = { 0 };
@@ -52,3 +52,4 @@ void main() {
 	
 } 
 
+*/
