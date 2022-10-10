@@ -1,9 +1,12 @@
-/C_test/Debug
-/C_test/x64
-/C_test/C_test/Debug
-/C_test/C_test/x64
-/C_test/.vs
+/C_test
+
 /inner_C/Para5/.vscode/
+/inner_C/Debug_print/.vscode
 /alg_data/alg_data/.idea
 /alg_data/alg_data/alg_data.iml
+
+100HoursPython/100HoursPython.pyproj
+100HoursPython/.vscode
+100HoursPython/.vs
+100HoursPython/100HoursPython.sln
 
